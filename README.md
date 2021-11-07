@@ -18,8 +18,10 @@
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
 BE stack
-![Node.js](https://img.shields.io/badge/nodejs-%23ED8B00.svg?style=for-the-badge&logo=nodejs&logoColor=#339933)
-![MongoDB](https://img.shields.io/badge/mongodb-%23ED8B00.svg?style=for-the-badge&logo=mongodb&logoColor=#47A248)
+
+![Node.js](https://img.shields.io/badge/nodejs-232F3E?style=for-the-badge&logo=nodejs&logoColor=#339933)
+![MongoDB](https://img.shields.io/badge/mongodb-181717?style=for-the-badge&logo=mongodb&logoColor=#47A248)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
