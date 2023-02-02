@@ -26,7 +26,12 @@ In addition, developed a homepage renewal.
 Interested in monorepo using Turborepo. Includes Docs, admin, web and common packages.
 In BE, prisma with next-auth.
 
-Developing a service with the above configuration. [Exam-Bomb-Service](https://exam-bomb-service.vercel.app)
+Developing a service with the above configuration.
+[Exam-Bomb-Service](https://exam-bomb-service.vercel.app)
+[Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app)
++ admin 
+
+
 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=glory4god)](https://github.com/anuraghazra/github-readme-stats) 
