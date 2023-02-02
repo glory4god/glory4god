@@ -27,9 +27,13 @@ Interested in monorepo using Turborepo. Includes Docs, admin, web and common pac
 In BE, prisma with next-auth.
 
 Developing a service with the above configuration.
+
 [Exam-Bomb-Service](https://exam-bomb-service.vercel.app)
+
 [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app)
+
 + admin 
+
 
 
 
