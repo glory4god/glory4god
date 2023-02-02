@@ -23,8 +23,8 @@ In addition, developed a homepage renewal.
 
 
 ### Recent interests
-Interested in monorepo using Turborepo. Includes Docs, admin, web and common packages.
-In BE, prisma with next-auth.
+Interested in monorepo using [Turborepo](https://turbo.build/). Includes Docs([Nextra](https://nextra.site/)), admin, web and common packages.
+In BE, prisma with [next-auth](https://next-auth.js.org/).
 
 Developing a service with the above configuration.
 
