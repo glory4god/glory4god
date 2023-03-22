@@ -32,7 +32,7 @@ Developing a service with the above configuration.
 
 [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app)
 
-+ admin 
+[Exam-Bomb-Admin](https://exam-bomb-admin.vercel.app)
 
 
 
