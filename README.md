@@ -38,4 +38,4 @@ Developing a service with the above configuration.
 
 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=glory4god)](https://github.com/anuraghazra/github-readme-stats) 
+<!--  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=glory4god)](https://github.com/anuraghazra/github-readme-stats)  -->
