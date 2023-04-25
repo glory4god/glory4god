@@ -15,6 +15,7 @@ In addition, developed a homepage renewal.
 - [useSWR](https://swr.vercel.app/ko), [ReactQuery](https://react-query-v3.tanstack.com/)
 - [TailwindCSS](https://tailwindcss.com/), ModuleCSS, [Emotion](https://emotion.sh/), [SCSS](https://sass-lang.com/)
 - [MUI](https://mui.com), [Antd](https://ant.design)
+- [TurboRepo](https://turbo.build/), [Vercel](https://vercel.com/)
 
 ### BE Skills
 - [Next.js](https://nextjs.org/), [NodeJs](https://nodejs.org/), [SpringBoot](https://spring.io/)
@@ -29,12 +30,8 @@ In BE, prisma with [next-auth](https://next-auth.js.org/).
 Developing a service with the above configuration.
 
 [Exam-Bomb-Service](https://exam-bomb-service.vercel.app)
-
 [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app)
-
 [Exam-Bomb-Admin](https://exam-bomb-admin.vercel.app)
-
-
 
 
 
