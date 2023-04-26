@@ -50,7 +50,7 @@ Mainly, focus on Web Frontend Development. Backend development is also possible.
 2. Open AI Starter (2023.04 ~ )
 - Open AI의 API를 활용해보며 쉽게 활용 가능한 UI를 제공하는 Starter Templete 개발
 - Completion Mode, Chat Mode, Create Image 기능 제공
-- [R](https://github.com/glory4god/openai-starter)
+- [Repository](https://github.com/glory4god/openai-starter)
 - [Docs](https://openai-starter-docs.vercel.app/)
 
 <!-- ### Recent interests
