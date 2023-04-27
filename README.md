@@ -21,7 +21,7 @@ Mainly, focus on Web Frontend Development. Backend development is also possible.
 - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발 프로젝트
 - 백오피스 FE개발, 부분 BE개발 및 DB 설계 (8인 프로젝트)
 - 초기 설계/기획/개발 2022.11 중국마켓 배포
-- 중국지사와의 협업으로 중국어 언어팩 제공
+- 중국지사와의 협업으로 중국어 언어팩 제공 (i18next)
 
 2. Starbox e-commerce 통계 대시보드 개발 (실무 2022.08 ~ 2023.04)
 - Starbox 하위 프로젝트로 이커머스 유저/매출/상품/랭킹 등의 분석 데이터를 마케팅 목적으로 한 눈에 확인할 수 있는 통계 대시보드 프로젝트
