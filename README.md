@@ -1,6 +1,6 @@
-# Yu Hayoung
+# Yu Hayoung - Web Developer
 
-Mainly, focus on Web Frontend Development. Backend development is also possible.
+웹 기반 서비스에 관심을진가진 개발자 유하영입니다.
 
 ### FE Skills
 - Javascript / [Typescript](https://www.typescriptlang.org/)
@@ -53,16 +53,20 @@ Mainly, focus on Web Frontend Development. Backend development is also possible.
 - [Repository](https://github.com/glory4god/openai-starter)
 - [Docs](https://openai-starter-docs.vercel.app/)
 
-<!-- ### Recent interests
-Interested in monorepo using [Turborepo](https://turbo.build/). Includes Docs([Nextra](https://nextra.site/)), admin, web and common packages.
-In BE, prisma with [next-auth](https://next-auth.js.org/).
+### Recent interests
+1. Monorepo System
+[Turborepo](https://turbo.build/). Includes Docs([Nextra](https://nextra.site/)), admin, web and common packages.
 
-Developing a service with the above configuration.
+2. Prisma and Next-Auth
+Prisma와 Next-Auth를 활용한 서버구축에 관심을 갖고 있습니다.
 
-[Exam-Bomb-Service](https://exam-bomb-service.vercel.app)
-[Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app)
-[Exam-Bomb-Admin](https://exam-bomb-admin.vercel.app) -->
+3. Next13 version & Eslint
+Next13과 Prisma를 이용하여 Rest API가 없는 프로젝트 구성에 관심을 갖고 있습니다. ( vercel/commerce )
+unicorn 플러그인을 통해 파워풀한 ESlint rules를 적용해갑니다.
+[Repository](https://github.com/glory4god/next13-prisma-template)
 
+4. AI
+Open AI의 API를 통해 새로운 것을 도전해보려 관심을 갖고 있습니다.
 
 
 <!--  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=glory4god)](https://github.com/anuraghazra/github-readme-stats)  -->
