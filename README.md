@@ -1,6 +1,6 @@
 # Yu Hayoung - Web Developer
 
-웹 기반 서비스에 관심을진가진 개발자 유하영입니다.
+웹 기반 서비스를 만들어가는 개발자 유하영입니다.
 
 ### FE Skills
 - Javascript / [Typescript](https://www.typescriptlang.org/)
