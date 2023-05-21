@@ -60,13 +60,13 @@
 2. Prisma and Next-Auth
 Prisma와 Next-Auth를 활용한 서버구축에 관심을 갖고 있습니다.
 
-3. Next13 version & Eslint
+3. AI
+Open AI의 API를 통해 새로운 것을 도전해보려 관심을 갖고 있습니다.
+
+<!-- 4. Next13 version & Eslint
 Next13과 Prisma를 이용하여 Rest API가 없는 프로젝트 구성에 관심을 갖고 있습니다. ( vercel/commerce )
 unicorn 플러그인을 통해 파워풀한 ESlint rules를 적용해갑니다.
 [Repository](https://github.com/glory4god/next13-prisma-template)
-
-4. AI
-Open AI의 API를 통해 새로운 것을 도전해보려 관심을 갖고 있습니다.
-
+ -->
 
 <!--  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=glory4god)](https://github.com/anuraghazra/github-readme-stats)  -->
