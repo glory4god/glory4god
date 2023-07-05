@@ -17,9 +17,12 @@
 
 
 ### Work Experience
-1. [집품](https://zippoom.com) Frontend 개발자 (2023.06 ~ )
- - Client Frontend 개발 (Nextjs)
- - Serverside, SEO 최적화 집중
+1. [집품 - Nextground](https://zippoom.com) Frontend 개발자 (2023.06 ~ )
+ - MAU 6만 / DAU 3천 합류
+ - Develop the Client Frontend ( NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss )
+ - Nextjs, SSR, SEO, refactoring 중심 개발
+ - SSR 속도개선 (평균 300~500ms 단축)
+ - Jest / SWR 도입 및 개발문화 개선
 
 2. Starbox e-commerce 백오피스 개발 (2022.01 ~ 2023.04)
  - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발 프로젝트
@@ -30,10 +33,11 @@
  - Starbox 하위 프로젝트로 유저/매출/상품/랭킹 등의 분석 데이터를 마케팅 목적으로 한 눈에 확인할 수 있는 통계 대시보드 프로젝트
  - FE/BE 및 DB설계 UI/UX 전체 담당 (기획자와 2인 프로젝트)
  - 통계 DB, SQL쿼리 및 배치 시스템 설계
-
+<!--
  ex) 유저페이지
  <img src="https://user-images.githubusercontent.com/78658208/234579660-48fe3138-9fab-44ba-9062-48e7fc63f03e.png" width="30%">
-
+ -->
+ 
 4. Appguard 홈페이지 (2023.01 ~ 2023.02)
  - AppGuard 홍보를 위한 홈페이지 개발
  - FE개발(마케팅/디자이너와 4인 프로젝트)
@@ -42,8 +46,8 @@
 
 
 ### Personal Experience
-1. ExamBomb (문제은행 서비스) (2023.01 ~ 2023.03)
- - 정보처리기사필기 시험 공부를 하면서 복습을 위한 Web Service 프로젝트
+1. ExamBomb - 문제은행 서비스 (2023.01 ~ )
+ - 정보처리기사필기 시험 공부를 하면서 복습을 위한 Web Service Project
  - 프로젝트 전체 설계 기획 (1인 프로젝트)
  - 자세한 프로젝트 소개 및 사용법 URL [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
  - 서비스 URL : [Exam-Bomb-Service](https://exam-bomb-service.vercel.app)
