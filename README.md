@@ -18,10 +18,10 @@
 
 ### Work Experience
 1. [집품 - Nextground](https://zippoom.com) Frontend 개발자 (2023.06 ~ )
- - MAU 6만 / DAU 3천 합류
+ - MAU 6만/DAU 3천 -> MAU 18만/DAU 7천 성장
  - Develop the Client Frontend ( NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss )
- - Nextjs, SSR, SEO, refactoring 중심 개발
- - SSR 속도개선 (평균 300~500ms 단축)
+ - Nextjs, SSR, SEO, refactoring 중점 개발
+ - SSR 속도개선 (모든 페이지 평균 300~500ms 단축)
  - Jest / SWR 도입 및 개발문화 개선
 
 2. Starbox e-commerce 백오피스 개발 (2022.01 ~ 2023.04)
