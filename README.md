@@ -17,41 +17,45 @@
 
 
 ### Work Experience
-1. [집품 - Nextground](https://zippoom.com) Frontend 개발자 (2023.06 ~ )
- - MAU 6만/DAU 3천 -> MAU 18만/DAU 7천 성장
- - Develop the Client Frontend ( NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss )
- - Nextjs, SSR, SEO, refactoring 중점 개발
- - SSR 속도개선 (모든 페이지 평균 300~500ms 단축)
- - Jest / SWR 도입 및 개발문화 개선
+1. 넥스트그라운드(NEXTGROUND) Web Frontend Developer (2023.06 ~ )
+ a. [집품](https://zippoom.com) Client 개발 (2023.06 ~ )
+  - 집품 서비스 개발 및 SEO & 성능최적화
+  - MAU 6만/DAU 3천 -> MAU 18만/DAU 7~8천 성장
+  - NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss
+  - SSR 속도개선 0.8초에서 0.3초 이내로 로드되도록 개선 (모든 페이지 300~500ms 단축)
+  - Jest/SWR 도입 및 개발문화 개선
+ 
+ b. [집품](https://zippoom.com) Posting ADMIN 개발 (2023.06 ~ )
+  - 집품 포스팅 작성을 위한 에디터 유지보
+  - NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss
+  - Nextjs, SSR, SEO, refactoring 중점 개발
+  - SSR 속도개선 (모든 페이지 평균 300~500ms 단축)
+  - Jest / SWR 도입 및 개발문화 개선
 
-2. Starbox e-commerce 백오피스 개발 (2022.01 ~ 2023.04)
- - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발 프로젝트
- - 백오피스 FE개발, 부분 BE개발 및 DB 설계 (8인 프로젝트)
- - 초기 설계/기획/개발부터 시작하여 2022.11 중국마켓 배포
+2. 잉카인터넷(nProtect) Web Developer (2022.01 ~ 2023.04)
+ a. Starbox e-commerce 백오피스 개발 (2022.01 ~ 2023.04)
+  - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발 프로젝트
+  - 백오피스 FE개발, 부분 BE개발 및 DB 설계 (8인 프로젝트)
+  - 초기 설계/기획/개발부터 시작하여 2022.11 중국마켓 배포
+  
+ b. Starbox e-commerce 통계 대시보드 개발 (2022.08 ~ 2023.04)
+  - Starbox 하위 프로젝트로 유저/매출/상품/랭킹 등의 분석 데이터를 마케팅 목적으로 한 눈에 확인할 수 있는 통계 대시보드 프로젝트
+  - FE/BE 및 DB설계 UI/UX 전체 담당 (기획자와 2인 프로젝트)
+  - 통계 DB, SQL쿼리 및 배치 시스템 설계
  
-3. Starbox e-commerce 통계 대시보드 개발 (2022.08 ~ 2023.04)
- - Starbox 하위 프로젝트로 유저/매출/상품/랭킹 등의 분석 데이터를 마케팅 목적으로 한 눈에 확인할 수 있는 통계 대시보드 프로젝트
- - FE/BE 및 DB설계 UI/UX 전체 담당 (기획자와 2인 프로젝트)
- - 통계 DB, SQL쿼리 및 배치 시스템 설계
-<!--
- ex) 유저페이지
- <img src="https://user-images.githubusercontent.com/78658208/234579660-48fe3138-9fab-44ba-9062-48e7fc63f03e.png" width="30%">
- -->
- 
-4. Appguard 홈페이지 (2023.01 ~ 2023.02)
- - AppGuard 홍보를 위한 홈페이지 개발
- - FE개발(마케팅/디자이너와 4인 프로젝트)
- - Monorepo로 nProtect에 UI Library kit 개발
- - [AppGuard](https://appguard.nprotect.com/kr/)
+ c. Appguard 홈페이지 (2023.01 ~ 2023.02)
+  - AppGuard 홍보를 위한 홈페이지 개발
+  - FE개발(마케팅/디자이너와 4인 프로젝트)
+  - Monorepo로 nProtect에 UI Library kit 개발
+  - [AppGuard](https://appguard.nprotect.com/kr/)
 
 
 ### Personal Experience
 1. ExamBomb - 문제은행 서비스 (2023.01 ~ )
  - 정보처리기사필기 시험 공부를 하면서 복습을 위한 Web Service Project
- - 프로젝트 전체 설계 기획 (1인 프로젝트)
- - 자세한 프로젝트 소개 및 사용법 URL [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
  - 서비스 URL : [Exam-Bomb-Service](https://exam-bomb-service.vercel.app)
- - Admin URL : [Exam-Bomb-Admin](https://exam-bomb-admin.vercel.app)
+ - Admin URL : [Exam-Bomb-Admin](https://exam-bomb-admin.vercel.app) (로그인 시 이용가능)
+ - 자세한 프로젝트 소개 및 사용법 URL [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
 
 2. Open AI Starter (2023.04 ~ )
  - Open AI의 API를 활용해보며 쉽게 활용 가능한 UI를 제공하는 Starter Templete 개발
