@@ -21,7 +21,7 @@
 
    a. [집품](https://zippoom.com) Client 개발 (2023.06 ~ )
     - 집품 서비스 개발 및 SEO & 성능최적화
-    - MAU 6만/DAU 3천 -> MAU 18만/DAU 7~8천 성장
+    - MAU 6만/DAU 3천 -> MAU 25만/DAU 1만 성장
     - NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss
     - SSR 속도개선 0.8초에서 0.3초 이내로 로드되도록 개선 (모든 페이지 300~500ms 단축)
     - Jest/SWR 도입 및 개발문화 개선
