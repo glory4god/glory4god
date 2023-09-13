@@ -19,6 +19,7 @@
 ### Work Experience
 1. 넥스트그라운드(NEXTGROUND) Web Frontend Developer (2023.06 ~ )
 
+<!--
    a. [집품](https://zippoom.com) Client 개발 (2023.06 ~ )
     - 집품 서비스 개발 및 SEO & 성능최적화
     - MAU 6만/DAU 3천 -> MAU 25만/DAU 1만 성장
@@ -32,6 +33,26 @@
     - Nextjs, SSR, SEO, refactoring 중점 개발
     - SSR 속도개선 (모든 페이지 평균 300~500ms 단축)
     - Jest / SWR 도입 및 개발문화 개선
+
+
+- NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss
+- SSR 속도개선 평균 0.7초에서 0.3초 이내로 로드되도록 개선 (모든 페이지 300~500ms 단축)
+- Jest 테스트 코드 도입 및 개발문화 개선
+- 사내 개발 스터디를 통한 코드스타일 개선
+
+1. SEO 최적화 중심 개발
+SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 증가를 목표로 합니다.
+아래와 같은 성과를 통해 합류 당시 MAU 8만에서 25만으로 성장하고 매일 새로운 기록을 이루고 있습니다.
+- Nextjs를 통한 SSR, SEO 최적화 FE 설계
+- 시멘틱마크업, 봇 친화적인 HTML구조, 서치엔진 스니펫 분석
+- SERP를 위한 메타태그 변경 및 마크업 적용
+
+2. 집품 포스팅 어드민
+집품 자체 포스팅 컨텐츠 작성 어드민 페이지 유지보수 및 개발을 담당합니다.
+
+- 콘텐츠를 작성 시에 적용하는 태그 또는 문단 스타일에 따른 UI 개발
+
+ -->
 
 2. 잉카인터넷(nProtect) Web Developer (2022.01 ~ 2023.04)
 
