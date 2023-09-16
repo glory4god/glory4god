@@ -82,11 +82,11 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
  - Prisma / MySQL(AWS RDS)
  - Vercel / AWS S3
 
- - 공식문서[Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
+ - 공식문서 [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
 
 2. Open AI Starter (2023.04 ~ )
  - Open AI의 API를 활용해보며 쉽게 활용 가능한 UI를 제공하는 Starter Templete 개발
- - Completion Mode, Chat Mode, Create Image 기능 제공
+ - Completion Mode, Chat Mode, Create Image API 연동
  - [Repository](https://github.com/glory4god/openai-starter)
  - [Docs](https://openai-starter-docs.vercel.app/)
 
@@ -94,10 +94,13 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 1. Monorepo System
 [Turborepo](https://turbo.build/). Includes Docs([Nextra](https://nextra.site/)), admin, web and common packages.
 
-2. Prisma and Next-Auth
+2. Nextjs(SSR, ISR, SSG)
+Nextjs SSR에서의 상태관리와 Props Drilling 등에서 최적의 효율을 고민합니다.
+
+3. Prisma and Next-Auth
 Prisma와 Next-Auth를 활용한 서버구축에 관심을 갖고 있습니다.
 
-3. AI
+4. AI
 Open AI의 API를 통해 새로운 것을 도전해보려 관심을 갖고 있습니다.
 
 <!-- 4. Next13 version & Eslint
