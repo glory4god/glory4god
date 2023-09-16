@@ -75,10 +75,14 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 
 ### Personal Experience
 1. [ExamBomb 문제은행 서비스](https://exam-bomb-service.vercel.app) (2023.01 ~ )
- - 정보처리기사필기 시험 공부를 하면서 복습을 위한 Web Service Project
- - 서비스 URL : [Exam-Bomb-Service](https://exam-bomb-service.vercel.app)
- - Admin URL : [Exam-Bomb-Admin](https://exam-bomb-admin.vercel.app) (로그인 시 이용가능)
- - 자세한 프로젝트 소개 및 사용법 URL [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
+ 정보처리기사필기 시험 공부를 하면서 복습을 위해 시작한 Web Project이지만, 계속해서 다른 과목을 입력하여 다양한 유저가 사용할 수 있는 서비스를 만들어가고 있어요.
+ 문제은행하면 생각나는 서비스가 될 수 있도록 발전하고 있어요.
+ 크게 Service / Admin / Docs 의 프로젝트가 있고, Monorepo로 구성되어있어요.
+ - Nextjs (SSR, ISR) / Typescript
+ - Prisma / MySQL(AWS RDS)
+ - Vercel / AWS S3
+
+ - 공식문서[Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
 
 2. Open AI Starter (2023.04 ~ )
  - Open AI의 API를 활용해보며 쉽게 활용 가능한 UI를 제공하는 Starter Templete 개발
