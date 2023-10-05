@@ -18,6 +18,7 @@
 
 ### Work Experience
 1. 넥스트그라운드(NEXTGROUND) Web Frontend Developer (2023.06 ~ )
+   a. [집품](https://zippoom.com) 서비스 개발 (2023.06 ~ )
 
 <!--
    a. [집품](https://zippoom.com) Client 개발 (2023.06 ~ )
@@ -75,12 +76,13 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 
 ### Personal Experience
 1. [ExamBomb 문제은행 서비스](https://exam-bomb-service.vercel.app) (2023.01 ~ )
- 정보처리기사필기 시험 공부를 하면서 복습을 위해 시작한 Web Project이지만, 계속해서 다른 과목을 입력하여 다양한 유저가 사용할 수 있는 서비스를 만들어가고 있어요.
- 문제은행하면 생각나는 서비스가 될 수 있도록 발전하고 있어요.
- 크게 Service / Admin / Docs 의 프로젝트가 있고, Monorepo로 구성되어있어요.
+ 정보처리기사필기 시험 공부를 하면서 복습을 위한 웹 Project로 시작하여 23년 8월부터 문제은행에서 경쟁력을 통해 유저가 사용할 수 있는 서비스를 만들어가고 있어요. 그로인해 지속적으로 문제를 입력하고 있어요.
+ 문제은행하면 생각나서 들어오게 되는 서비스가 되고자 목표를 설정하여, 1차 목표는 2024년 1월 일 100명의 서비스가 되는 것을 목표로 하고 있어요.
+ Monorepo로 구성되어, 3가지 Client / Admin / Docs의 프로젝트가 있어요.
+
  - Nextjs (SSR, ISR) / Typescript
  - Prisma / MySQL(AWS RDS)
- - Vercel / AWS S3
+ - Vercel(Deployment, Analytics, Speed Insights) / AWS S3
 
  - 공식문서 [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
 
@@ -92,7 +94,7 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 
 ### Recent interests
 1. Monorepo System
-[Turborepo](https://turbo.build/). Includes Docs([Nextra](https://nextra.site/)), admin, web and common packages.
+[Turborepo](https://turbo.build/) 기반의 모노레포 시스템을 통한 프로젝트 구성을 사용합니다.
 
 2. Nextjs(SSR, ISR, SSG)
 Nextjs SSR에서의 상태관리와 Props Drilling 등에서 최적의 효율을 고민합니다.
