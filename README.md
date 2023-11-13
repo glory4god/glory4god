@@ -1,6 +1,6 @@
 # Yu Hayoung - Web Developer
 
-웹 기반 서비스를 만들어가는 개발자 유하영입니다.
+Nextjs를 통한 웹 서비스를 만드는 개발자 유하영입니다.
 
 ### FE Skills
  - Javascript / [Typescript](https://www.typescriptlang.org/)
