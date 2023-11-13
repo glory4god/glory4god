@@ -58,7 +58,7 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 2. 잉카인터넷(nProtect) Web Developer (2022.01 ~ 2023.04)
 
    a. Starbox e-commerce 백오피스 개발 (2022.01 ~ 2023.04)
-    - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발 프로젝트
+    - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발
     - 백오피스 FE개발, 부분 BE개발 및 DB 설계 (8인 프로젝트)
     - 초기 설계/기획/개발부터 시작하여 2022.11 중국마켓 배포
     
@@ -77,33 +77,36 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 ### Personal Experience
 1. [ExamBomb 문제은행 서비스](https://exam-bomb-service.vercel.app) (2023.01 ~ )
  
- 정보처리기사필기 시험 공부를 하면서 복습을 위한 웹 Project로 시작하여 23년 8월부터 더 많은 유저가 사용할 수 있는 서비스로 만들어가고 있어요.
- 문제은행하면 생각나서 들어오게 되는 서비스가 되고자 목표를 설정하여, 1차 목표는 2024년 1월 일 100명의 서비스가 되는 것을 목표로 하고 있어요.
+ 정보처리기사필기 시험 공부를 하면서 복습을 위한 웹 Project로 시작했어요.
+ 23년 9월부터 더 많은 유저가 사용할 수 있는 서비스로 만들어가고자 기사, 공무원, 자격증 등 모든 문제를 입력하고 있어요.
+ 문제은행하면 생각나서 들어오게 되는 서비스가 되고자 목표를 설정하여, 1차 목표인 2024년 1분기에 DAU 100 의 서비스가 되는 것을 목표로 하고 있어요.
+
+ 제공하는 서비스는 기출, 추천, 랜덤 문제를 풀 수 있게 제공하며 로그인 시 푼 문제에 대한 통계도 제공하고 있어요.
 
  - Nextjs (SSR, ISR) / Typescript / Turborepo
- - Prisma / MySQL(AWS RDS)
- - Vercel(Deployment, Analytics, Speed Insights) / AWS S3
+ - Prisma / MySQL(AWS RDS) 
+ - Vercel(Deployment, Analytics, Speed Insights) / AWS (S3, Route 53) 
 
- - 공식문서 [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app) 
+ - 공식문서 [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app)
 
 2. Open AI Starter (2023.04 ~ )
- - Open AI의 API를 활용해보며 쉽게 활용 가능한 UI를 제공하는 Starter Templete 개발
- - Completion Mode, Chat Mode, Create Image API 연동
+ - Open AI의 API를 활용해보며 쉽게 활용 가능한 UI를 제공하는 Starter Templete 개발하여 openAI API를 쉽게 연결할 수 있어요.
+ - Completion Mode, Chat Mode, Create Image API 제공
  - [Repository](https://github.com/glory4god/openai-starter)
  - [Docs](https://openai-starter-docs.vercel.app/)
 
 ### Recent interests
 1. Monorepo System
-[Turborepo](https://turbo.build/) 기반의 모노레포 시스템을 통한 프로젝트 구성을 사용합니다.
+[Turborepo](https://turbo.build/) 기반의 모노레포 시스템을 통한 프로젝트 구성을 즐겨 사용해요.
 
-2. Nextjs(SSR, ISR, SSG)
-Nextjs SSR에서의 상태관리와 Props Drilling 등에서 최적의 효율을 고민합니다.
+2. Nextjs / Vercel(SSR, ISR, SSG)
+Nextjs SSR에서의 상태관리와 Props Drilling 등에서 최적의 효율을 고민하고, Vercel 배포 시 제공되는 기능에 대한 공부를 하고 있어요.
 
 3. Prisma and Next-Auth
-Prisma와 Next-Auth를 활용한 서버구축에 관심을 갖고 있습니다.
+Prisma와 Next-Auth를 활용한 서버구축에 관심을 갖고 있어요.
 
 4. AI
-Open AI의 API를 통해 새로운 것을 도전해보려 관심을 갖고 있습니다.
+Open AI의 API를 통해 새로운 것을 도전해보려 관심을 가져요.
 
 <!-- 4. Next13 version & Eslint
 Next13과 Prisma를 이용하여 Rest API가 없는 프로젝트 구성에 관심을 갖고 있습니다. ( vercel/commerce )
