@@ -18,28 +18,25 @@ Nextjs를 통한 웹 서비스를 만드는 개발자 유하영입니다.
 
 ### Work Experience
 1. 넥스트그라운드(NEXTGROUND) Web Frontend Developer (2023.06 ~ )
+
    a. [집품](https://zippoom.com) 서비스 개발 (2023.06 ~ )
 
 <!--
    a. [집품](https://zippoom.com) Client 개발 (2023.06 ~ )
     - 집품 서비스 개발 및 SEO & 성능최적화
-    - MAU 6만/DAU 3천 -> MAU 25만/DAU 1만 성장
+    - MAU 6만/DAU 3천 -> MAU 35만/DAU 1.5만 성장
     - NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss
     - SSR 속도개선 0.8초에서 0.3초 이내로 로드되도록 개선 (모든 페이지 300~500ms 단축)
-    - Jest/SWR 도입 및 개발문화 개선
+    - Jest 도입으로 특정 로직 QA 자동화로 시간 단축 및 SWR을 통한 개발경험 개선
+    - Next Image 컴포넌트의 기존 시스템 문제점 파악 및 서버환경 최적화
+    - SEO 관련 레퍼런스 조사
+    - 지속적인 사내 개발스터디를 통한 개발문화 향상
+    - 렌더링최적화
    
-   b. [집품](https://zippoom.com) Posting ADMIN 개발 (2023.06 ~ )
-    - 집품 포스팅 작성을 위한 에디터 유지보
-    - NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss
-    - Nextjs, SSR, SEO, refactoring 중점 개발
-    - SSR 속도개선 (모든 페이지 평균 300~500ms 단축)
-    - Jest / SWR 도입 및 개발문화 개선
+   b. [집품](https://zippoom.com) Admin 개발 (2023.06 ~ )
+    - 집품 포스팅 작성을 위한 에디터 유지보수 ckeditor
+    - NextJs / Typescript / Recoil / SWR / Tailwindcss
 
-
-- NextJs / Typescript / Jest / Recoil / SWR / Tailwindcss
-- SSR 속도개선 평균 0.7초에서 0.3초 이내로 로드되도록 개선 (모든 페이지 300~500ms 단축)
-- Jest 테스트 코드 도입 및 개발문화 개선
-- 사내 개발 스터디를 통한 코드스타일 개선
 
 1. SEO 최적화 중심 개발
 SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 증가를 목표로 합니다.
