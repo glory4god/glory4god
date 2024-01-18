@@ -20,6 +20,7 @@ Nextjs를 통한 웹 서비스를 만드는 개발자 유하영입니다.
 1. 넥스트그라운드(NEXTGROUND) Web Frontend Developer (2023.06 ~ )
 
    a. [집품](https://zippoom.com) 서비스 개발 (2023.06 ~ )
+   b. [집품](https://zippoom.com) 서비스 어드민 개발 (2023.06 ~ )
 
 <!--
    a. [집품](https://zippoom.com) Client 개발 (2023.06 ~ )
