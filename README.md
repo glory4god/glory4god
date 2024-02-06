@@ -52,7 +52,6 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 
 - 콘텐츠를 작성 시에 적용하는 태그 또는 문단 스타일에 따른 UI 개발
 
- -->
 
 2. 잉카인터넷(nProtect) Web Developer (2022.01 ~ 2023.04)
 
@@ -107,6 +106,7 @@ Prisma와 Next-Auth를 활용한 서버구축에 관심을 갖고 있어요.
 4. AI
 Open AI의 API를 통해 새로운 것을 도전해보려 관심을 가져요.
 
+ -->
 <!-- 4. Next13 version & Eslint
 Next13과 Prisma를 이용하여 Rest API가 없는 프로젝트 구성에 관심을 갖고 있습니다. ( vercel/commerce )
 unicorn 플러그인을 통해 파워풀한 ESlint rules를 적용해갑니다.
