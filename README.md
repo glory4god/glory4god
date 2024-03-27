@@ -52,46 +52,47 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 
 - 콘텐츠를 작성 시에 적용하는 태그 또는 문단 스타일에 따른 UI 개발
 
+ -->
 
 2. 잉카인터넷(nProtect) Web Developer (2022.01 ~ 2023.04)
-
    a. Starbox e-commerce 백오피스 개발 (2022.01 ~ 2023.04)
     - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발
-    - 백오피스 FE개발, 부분 BE개발 및 DB 설계 (8인 프로젝트)
+    - 백오피스 FE개발, 부분 BE개발 및 DB 설계
     - 초기 설계/기획/개발부터 시작하여 2022.11 중국마켓 배포
     
    b. Starbox e-commerce 통계 대시보드 개발 (2022.08 ~ 2023.04)
     - Starbox 하위 프로젝트로 유저/매출/상품/랭킹 등의 분석 데이터를 마케팅 목적으로 한 눈에 확인할 수 있는 통계 대시보드 프로젝트
-    - FE/BE 및 DB설계 UI/UX 전체 담당 (기획자와 2인 프로젝트)
+    - FE/BE 및 DB설계
     - 통계 DB, SQL쿼리 및 배치 시스템 설계
    
    c. Appguard 홈페이지 (2023.01 ~ 2023.02)
     - AppGuard 홍보를 위한 홈페이지 개발
-    - FE개발(마케팅/디자이너와 4인 프로젝트)
-    - Monorepo로 nProtect에 UI Library kit 개발
+    - Monorepo를 통한 nProtect에 UI Library kit 개발
     - [AppGuard](https://appguard.nprotect.com/kr/)
 
 
 ### Personal Experience
-1. [ExamBomb 문제은행 서비스](https://exam-bomb-service.vercel.app) (2023.01 ~ )
- 
+1. [ExamBomb 문제은행 서비스](https://exambomb.com) (2023.01 ~ )
  정보처리기사필기 시험 공부를 하면서 복습을 위한 웹 Project로 시작했어요.
  23년 9월부터 더 많은 유저가 사용할 수 있는 서비스로 만들어가고자 기사, 공무원, 자격증 등 모든 문제를 입력하고 있어요.
- 문제은행하면 생각나서 들어오게 되는 서비스가 되고자 목표를 설정하여, 1차 목표인 2024년 1분기에 DAU 100 의 서비스가 되는 것을 목표로 하고 있어요.
 
- 제공하는 서비스는 기출, 추천, 랜덤 문제를 풀 수 있게 제공하며 로그인 시 푼 문제에 대한 통계도 제공하고 있어요.
+ 현재 매일 50~80명 정도 이용하는 서비스입니다.
 
- - Nextjs (SSR, ISR) / Typescript / Turborepo
- - Prisma / MySQL(AWS RDS) 
+ - Nextjs (SSR, ISR) / Typescript/ SWR
+ - Prisma / MySQL(AWS RDS)
+ - Turborepo
  - Vercel(Deployment, Analytics, Speed Insights) / AWS (S3, Route 53) 
 
- - 공식문서 [Exam-Bomb-Docs](https://exam-bomb-docs.vercel.app)
-
+<!--
 2. Open AI Starter (2023.04 ~ )
  - Open AI의 API를 활용해보며 쉽게 활용 가능한 UI를 제공하는 Starter Templete 개발하여 openAI API를 쉽게 연결할 수 있어요.
  - Completion Mode, Chat Mode, Create Image API 제공
  - [Repository](https://github.com/glory4god/openai-starter)
  - [Docs](https://openai-starter-docs.vercel.app/)
+
+ -->
+
+<!--
 
 ### Recent interests
 1. Monorepo System
