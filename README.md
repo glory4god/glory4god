@@ -17,10 +17,10 @@ Nextjs를 통한 웹 서비스를 만드는 개발자 유하영입니다.
 
 
 ### Work Experience
-1. 넥스트그라운드(NEXTGROUND) Web Frontend Developer (2023.06 ~ )
+1. **넥스트그라운드(NEXTGROUND) Web Frontend Developer (2023.06 ~ )**
 
-   - [집품](https://zippoom.com) 서비스 개발 (2023.06 ~ )
-   - [집품](https://zippoom.com) 서비스 어드민 개발 (2023.06 ~ )
+   - [집품](https://zippoom.com) 서비스 FE개발
+   - [집품](https://zippoom.com) 서비스 어드민 FE개발
 
    
 
@@ -55,7 +55,7 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 
  -->
 
-2. 잉카인터넷(nProtect) Web Developer (2022.01 ~ 2023.04)
+2. **잉카인터넷(nProtect) Web Developer (2022.01 ~ 2023.04)**
 
    a. Starbox e-commerce 백오피스 개발 (2022.01 ~ 2023.04)
     - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발
@@ -74,17 +74,19 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 
 
 ### Personal Experience
-1. [ExamBomb 문제은행 서비스](https://exambomb.com) (2023.01 ~ )
+1. **[ExamBomb 문제은행 서비스](https://www.exambomb.com) (2023.01 ~ )**
 
    정보처리기사필기 시험 공부를 하면서 복습을 위한 웹 Project로 시작했어요.
-   23년 9월부터 더 많은 유저가 사용할 수 있는 서비스로 만들어가고자 기사, 공무원, 자격증 등 모든 문제를 입력하고 있어요.
+   23년 9월부터 더 많은 유저에게 도움을 주는 서비스로 만들어가고자 기사, 공무원, 군무원, 자격증 등의 시험 기출과 문제를 입력하고 있어요.
 
-   현재 매일 50~80명 정도 이용하는 서비스입니다.
+   
+   24년 4월 일 100명 / 월 2000명 트래픽을 통해 유지보수를 진행하고 있으며, 총 7,500번의 방문과 3만 페이지 뷰가 이뤄지고 있어요.
 
-   - Nextjs (SSR, ISR) / Typescript/ SWR
+   **Skills**
+   - Nextjs (SSR, ISR) / Typescript/ SWR / Next-Auth
    - Prisma / MySQL(AWS RDS)
    - Turborepo
-   - Vercel(Deployment, Analytics, Speed Insights) / AWS (S3, Route 53) 
+   - Vercel(Deployment, Analytics, Speed Insights) / AWS (S3, Route 53)
 
 <!--
 2. Open AI Starter (2023.04 ~ )
