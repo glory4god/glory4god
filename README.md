@@ -4,7 +4,7 @@ Nextjs를 통한 웹 서비스를 만드는 개발자 유하영입니다.
 
 ### FE Skills
  - Javascript / [Typescript](https://www.typescriptlang.org/)
- - [React.js](https://reactjs.org/) / [Next.js](https://nextjs.org/)
+ - [Next.js](https://nextjs.org/) / [React.js](https://reactjs.org/)
  - [Redux-toolkit](https://redux-toolkit.js.org/) / [Recoil](https://recoiljs.org/)
  - [useSWR](https://swr.vercel.app/ko), [ReactQuery](https://react-query-v3.tanstack.com/)
  - [TailwindCSS](https://tailwindcss.com/), ModuleCSS, [Emotion](https://emotion.sh/), [SCSS](https://sass-lang.com/)
