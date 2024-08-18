@@ -1,15 +1,15 @@
 # Yu Hayoung - Web Developer
 
-Nextjs를 통한 웹 서비스를 만드는 개발자 유하영입니다.
+웹 서비스를 만들어 가치를 만드는 개발자 유하영입니다.
 
 ### FE Skills
  - Javascript / [Typescript](https://www.typescriptlang.org/)
- - [Next.js](https://nextjs.org/) / [React.js](https://reactjs.org/)
+ - [Next.js](https://nextjs.org/) / [React.js](https://reactjs.org/) 
  - [Redux-toolkit](https://redux-toolkit.js.org/) / [Recoil](https://recoiljs.org/)
  - [useSWR](https://swr.vercel.app/ko), [ReactQuery](https://react-query-v3.tanstack.com/)
- - [TailwindCSS](https://tailwindcss.com/), ModuleCSS, [Emotion](https://emotion.sh/), [SCSS](https://sass-lang.com/)
- - [MUI](https://mui.com), [Antd](https://ant.design)
- - [TurboRepo](https://turbo.build/), [Vercel](https://vercel.com/)
+ - [TailwindCSS](https://tailwindcss.com/), ModuleCSS
+ - [TurboRepo](https://turbo.build/), [Vercel](https://vercel.com/), AWS S3, AWS Route53
+ - Webview
 
 ### BE Skills
  - [Next.js](https://nextjs.org/), [NodeJs](https://nodejs.org/), [SpringBoot](https://spring.io/)
@@ -21,8 +21,6 @@ Nextjs를 통한 웹 서비스를 만드는 개발자 유하영입니다.
 
    - [집품](https://zippoom.com) 서비스 FE개발 (2023.06 ~ )
    - [집품](https://zippoom.com) 어드민 FE개발 (2023.06 ~ )
-
-   
 
 <!--
    a. [집품](https://zippoom.com) Client 개발 (2023.06 ~ )
@@ -58,7 +56,7 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
 2. **잉카인터넷(nProtect) Web Developer (2022.01 ~ 2023.04)**
 
    a. Starbox e-commerce 백오피스 개발 (2022.01 ~ 2023.04)
-    - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce로 Application의 백오피스 개발
+    - 피규어 상품 관련 랜덤박스, 복권뽑기의 게임형식 e-commerce Application 백오피스 개발
     - 백오피스 FE개발, 부분 BE개발 및 DB 설계
     - 초기 설계/기획/개발부터 시작하여 2022.11 중국마켓 배포
     
