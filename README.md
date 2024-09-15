@@ -9,7 +9,7 @@
  - [useSWR](https://swr.vercel.app/ko), [ReactQuery](https://react-query-v3.tanstack.com/)
  - [TailwindCSS](https://tailwindcss.com/), ModuleCSS
  - [TurboRepo](https://turbo.build/), [Vercel](https://vercel.com/), AWS S3, AWS Route53
- - Webview
+ - Webview in App
 
 ### BE Skills
  - [Next.js](https://nextjs.org/), [NodeJs](https://nodejs.org/), [SpringBoot](https://spring.io/)
