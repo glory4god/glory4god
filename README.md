@@ -51,7 +51,7 @@
 1. **넥스트그라운드(NEXTGROUND) Web Frontend Developer (2023.06 ~ )**
 
    - [집품](https://zippoom.com) 서비스 FE개발 (2023.06 ~ )
-   - [집품](https://zippoom.com) 어드민 FE개발 (2023.06 ~ )
+   - [집품](https://zippoom.com) 백오피스 개발 (2023.06 ~ )
 
 <!--
    a. [집품](https://zippoom.com) Client 개발 (2023.06 ~ )
