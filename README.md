@@ -95,11 +95,11 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
     - Starbox 하위 프로젝트로 유저/매출/상품/랭킹 등의 분석 데이터를 마케팅 목적으로 한 눈에 확인할 수 있는 통계 대시보드 프로젝트
     - FE/BE 및 DB설계
     - 통계 DB, SQL쿼리 및 배치 시스템 설계
-   
+<!--   
    c. Appguard 홈페이지 (2023.01 ~ 2023.02)
     - AppGuard 홍보를 위한 홈페이지 개발
     - Monorepo를 통한 nProtect에 UI Library kit 개발
-
+ -->
 <!--
 
 ### Recent interests
