@@ -10,8 +10,6 @@
  - [TailwindCSS](https://tailwindcss.com/), ModuleCSS
  - [TurboRepo](https://turbo.build/), [Vercel](https://vercel.com/), AWS S3, AWS Route53
  - Webview in App
- - Claude MCP 
-
 
 ### BE Skills
  - [Next.js](https://nextjs.org/), [NodeJs](https://nodejs.org/), [SpringBoot](https://spring.io/)
@@ -102,11 +100,16 @@ SEO 최적화를 통해 검색엔진을 통한 유입을 증대시켜 트래픽 
     - AppGuard 홍보를 위한 홈페이지 개발
     - Monorepo를 통한 nProtect에 UI Library kit 개발
  -->
-<!--
 
 ### Recent interests
 1. Monorepo System
 [Turborepo](https://turbo.build/) 기반의 모노레포 시스템을 통한 프로젝트 구성을 즐겨 사용해요.
+
+2. Claude MCP를 활용한 효율적인 일처리를 고민해요.
+ 
+3. React custom hooks를 통해 함수 재활용성을 높이는 방법을 고민해요.
+
+<!--   
 
 2. Nextjs / Vercel(SSR, ISR, SSG)
 Nextjs SSR에서의 상태관리와 Props Drilling 등에서 최적의 효율을 고민하고, Vercel 배포 시 제공되는 기능에 대한 공부를 하고 있어요.
@@ -116,8 +119,8 @@ Prisma와 Next-Auth를 활용한 서버구축에 관심을 갖고 있어요.
 
 4. AI
 Open AI의 API를 통해 새로운 것을 도전해보려 관심을 가져요.
+-->
 
- -->
 <!-- 4. Next13 version & Eslint
 Next13과 Prisma를 이용하여 Rest API가 없는 프로젝트 구성에 관심을 갖고 있습니다. ( vercel/commerce )
 unicorn 플러그인을 통해 파워풀한 ESlint rules를 적용해갑니다.
